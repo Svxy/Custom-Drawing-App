@@ -1,0 +1,22 @@
+C:\Users\Aidan\Desktop\Folders\Coding\WpfApp1.exe.config
+C:\Users\Aidan\Desktop\Folders\Coding\WpfApp1.xml
+C:\Users\Aidan\Desktop\Folders\Coding\WpfApp1.exe
+C:\Users\Aidan\Desktop\Folders\Coding\WpfApp1.pdb
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\TnyavnTos Drawing App.csproj.AssemblyReference.cache
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\TnyavnTos Drawing App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\MainWindow.g.cs
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Palette.g.cs
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\App.g.cs
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\MainWindow.baml
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Palette.baml
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\TnyavnTos Drawing App.csproj.GenerateResource.cache
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\TnyavnTos Drawing App.csproj.CoreCompileInputs.cache
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\bin\Release\Tnyavntos Drawing App.exe.config
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\bin\Release\Tnyavntos Drawing App.exe
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\bin\Release\Tnyavntos Drawing App.pdb
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Tnyavntos Drawing App_MarkupCompile.cache
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Tnyavntos Drawing App_MarkupCompile.lref
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Tnyavntos Drawing App.g.resources
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Tnyavntos Drawing App.exe
+C:\Users\Aidan\Source\Repos\DrawingApp\DrawingApp\obj\Release\Tnyavntos Drawing App.pdb
